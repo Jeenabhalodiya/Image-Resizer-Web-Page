@@ -2,6 +2,8 @@
 
 A simple web application that allows users to resize images for different social media platforms. Users can upload an image and instantly resize it for predefined dimensions like Instagram, Facebook, Twitter, or a custom website layout.
 
+![Screenshot 2024-11-18 105746](https://github.com/user-attachments/assets/3d918639-d36f-4c2c-9f1c-af3499a812c9)
+
 ###Features:
 
 Image Upload: Upload an image for resizing.
