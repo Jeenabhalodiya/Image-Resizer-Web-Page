@@ -1,4 +1,4 @@
-###Image Resizer Web Page
+###Image Resizer Web Page-
 
 A simple web application that allows users to resize images for different social media platforms. Users can upload an image and instantly resize it for predefined dimensions like Instagram, Facebook, Twitter, or a custom website layout.
 
